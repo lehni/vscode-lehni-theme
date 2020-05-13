@@ -1,7 +1,6 @@
 # Lehni VS Code theme
 
-A light VS Code color theme that combines of the `colors` (UI/UX) from the
-[GitHub
+A light VS Code color theme that combines the `colors` (UI/UX) from the [GitHub
 theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 and the `tokenColors` (syntax highlighting) from the [Ayu
 theme](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu), along
