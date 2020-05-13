@@ -1,0 +1,21 @@
+{
+  "name": "vscode-lehni-theme",
+  "displayName": "VSCode Lehni Theme",
+  "description": "A light VS Code color theme that combines of the `colors` from the GitHub theme and the `tokenColors` from the Ayu theme, along with further adjustments and refinements for the Babel JavaScript syntax highlighter.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.45.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lehni Light",
+        "uiTheme": "vs",
+        "path": "./themes/lehni-light.json"
+      }
+    ]
+  }
+}
